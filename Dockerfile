@@ -1,5 +1,5 @@
 # 任意のイメージを取得
-FROM python:3.10-rc-slim-buster
+FROM python:slim-buster
 
 WORKDIR /opt/app
 
